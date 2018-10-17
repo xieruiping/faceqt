@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=明星换脸
+GenericName=明星换脸
+Comment=实时同步明星脸
+Exec=/home/lebo/PQtest/facestar.sh
+Icon=/home/lebo/PQtest/logo.png
+Terminal=densepose
+Categories=Application;Development;
